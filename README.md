@@ -1,6 +1,4 @@
-- 👋 Hi, I’m Rick Ou 
-- 👀 I’m a car fan/tech fan in my daily life 
-- 📫 USC MSBA / OSU BS
+- 👋 Hi, I’m Makkiemua
 
 <!---
 rick5790/rick5790 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
